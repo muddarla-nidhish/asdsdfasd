@@ -1,0 +1,13 @@
+#heading{
+    color: aliceblue;
+}
+body{
+    background-size: cover;
+}
+#p{
+    color: aliceblue;
+}
+canvas{
+    border: 3px mediumblue dashed;
+    margin-top:100px ; 
+}
